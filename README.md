@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Samma but peoples call me Sammyboi</h1>
+<h1 align="center">Hi there, I'm Samma</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samma2009&show_icons=true&theme=one_dark_pro&count_private=false" alt="Top Langs" height="200px" />
